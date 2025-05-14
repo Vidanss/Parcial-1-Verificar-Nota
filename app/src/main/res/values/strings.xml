@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Validar Nota</string>
+    <string name="parcial_titulo">Parcial #1</string>
+    <string name="estudiante1">Victor Arrocha</string>
+    <string name="estudiante2">Alexander Camargo</string>
+    <string name="ingrese_nota">Ingrese la nota a validar</string>
+    <string name="btn_validar">Validar</string>
+</resources>
